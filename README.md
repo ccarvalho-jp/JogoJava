@@ -50,29 +50,6 @@ Controle uma nave espacial e destrua os tanques inimigos que surgem no terreno. 
 - Java JDK 8 ou superior
 - IDE Java (IntelliJ IDEA, Eclipse, NetBeans) ou terminal
 
-### Instalação
-
-1. Clone o repositório:
-bash
-git clone https://github.com/seu-usuario/laser-blast-atari.git
-cd laser-blast-atari
-
-
-2. Compile o projeto:
-bash
-javac -d bin src/**/*.java
-
-3. Execute o jogo:
-bash
-java -cp bin Telas.MainGame
-
-
-### Executando pela IDE
-
-1. Abra o projeto na sua IDE Java
-2. Localize a classe `MainGame.java` em `src/Telas/`
-3. Execute a classe (botão Run ou Shift+F10 no IntelliJ)
-
 ## 📁 Estrutura do Projeto
 
 ```
